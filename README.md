@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/SimeonIfalore/Comcast-Complaint-Analysis/blob/main/Comcast.svg.png" alt="Comcast Logo" width="200"/>
+  <img src="https://github.com/SimeonIfalore/Comcast-Complaint-Analysis/blob/main/comcast-new-logo-1536x867.jpg" alt="Comcast Logo" width="200"/>
 </p>
 
 <h1 align="center">Comcast Customer Complaint Analysis</h1>
