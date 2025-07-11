@@ -1,4 +1,4 @@
-# 📊 Comcast Customer Complaint Analysis
+# (preview.jpg) Comcast Customer Complaint Analysis
 
 **Author:** Simeon Ifalore  
 **Date:** October 2016 Dataset  
