@@ -1,4 +1,8 @@
-# (preview.jpg) Comcast Customer Complaint Analysis
+<p align="center">
+  <img src="https://1000logos.net/wp-content/uploads/2021/11/Comcast-Logo-768x432.png" alt="Comcast Logo" width="200"/>
+</p>
+
+<h1 align="center">Comcast Customer Complaint Analysis</h1>
 
 **Author:** Simeon Ifalore  
 **Date:** October 2016 Dataset  
