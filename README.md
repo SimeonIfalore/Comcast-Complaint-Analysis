@@ -1,41 +1,89 @@
-# Comcast-Complaint-Analysis
+# 📊 Comcast Customer Complaint Analysis
 
-### Project Title - Comcast customer complaint Analysis
-#### By `Ifalore Simeon`
-Problem overview
-DESCRIPTION
+**Author:** Simeon Ifalore  
+**Date:** October 2016 Dataset  
+**Tools Used:** Python · Pandas · NumPy · Matplotlib · Seaborn · Data Visualization · Data Wrangling
 
-Comcast is an American global telecommunication company. The firm has been providing terrible customer service. They continue to fall short despite repeated promises to improve. Only last month (October 2016) the authority fined them a $2.3 million, after receiving over 1000 consumer complaints. The existing database will serve as a repository of public customer complaints filed against Comcast. It will help to pin down what is wrong with Comcast's customer service.
+---
 
-Data Dictionary
+## 🔍 Overview
 
-Ticket #: Ticket number assigned to each complaint
-Customer Complaint: Description of complaint
-Date: Date of complaint
-Time: Time of complaint
-Received Via: Mode of communication of the complaint
-City: Customer city
-State: Customer state
-Zipcode: Customer zip
-Status: Status of complaint
-Filing on behalf of someone
-Analysis Task
+This project presents a data-driven analysis of **Comcast's customer service complaints**, using real-world data to uncover pain points, trends, and service quality issues.
 
-To perform these tasks, you can use any of the different Python libraries such as NumPy, SciPy, Pandas, scikit-learn, matplotlib, and BeautifulSoup.
+In light of Comcast's $2.3 million fine by authorities due to overwhelming consumer complaints, this project explores and visualizes key complaint patterns from their public complaint database. It aims to guide service improvement strategies with actionable insights.
 
-Import data into Python environment.
-Provide the trend chart for the number of complaints at monthly and daily granularity levels.
-Provide a table with the frequency of complaint types.
+---
 
-Which complaint types are maximum i.e., around internet, network issues, or across any other domains.
+## 📁 Dataset Description
 
-Create a new categorical variable with value as Open and Closed. Open & Pending is to be categorized as Open and Closed & Solved is to be categorized as Closed.
-Provide state wise status of complaints in a stacked bar chart. Use the categorized variable from Q3.
-Provide insights on:
+The dataset contains customer complaints received via different channels and includes the following fields:
 
-Which state has the maximum complaints`
+| Column              | Description                                      |
+|---------------------|--------------------------------------------------|
+| Ticket #            | Unique complaint identifier                     |
+| Customer Complaint  | Description of the issue                        |
+| Date                | Date the complaint was filed                    |
+| Time                | Time the complaint was filed                    |
+| Received Via        | Communication channel (Internet/Customer Care) |
+| City, State, Zipcode| Location data of the customer                   |
+| Status              | Complaint resolution status                     |
+| Filing on Behalf    | Whether complaint was filed for someone else    |
 
-Which state has the highest percentage of unresolved complaints`
+---
 
-Provide the percentage of complaints resolved till date, which were received through the Internet and customer care calls.
-The analysis results to be provided with insights wherever applicable.
+## 📈 Key Tasks & Objectives
+
+- ✅ Import and clean the dataset
+- 📅 Generate trend charts of complaint volumes (daily/monthly)
+- 🧾 Identify and count the most common complaint types
+- 📊 Create a new binary status feature: `Open` vs `Closed`
+- 🗺️ Visualize complaints by state using a stacked bar chart
+- 🔎 Determine:
+  - Which state has the highest number of complaints?
+  - Which state has the highest percentage of unresolved complaints?
+- ☎️ Compare resolution percentages between Internet and Customer Care calls
+
+---
+
+## 🧠 Insights & Outcomes
+
+- Uncovered high-volume complaint states and their resolution performance
+- Highlighted Internet vs Customer Care efficiency in complaint handling
+- Identified complaint categories that frequently remain unresolved
+- Delivered visuals that aid decision-making for customer service improvements
+
+---
+
+## 📌 Highlights
+
+- 🧹 Data Cleaning & Feature Engineering (including categorical transformation)
+- 📊 Exploratory Data Analysis using matplotlib and seaborn
+- 🧮 Grouping, Aggregation, and Custom Metrics
+- 📍 Geographic complaint breakdown by U.S. state
+
+---
+
+## 🚀 Getting Started
+
+To run the notebook:
+
+1. Clone the repository
+2. Install the required packages:  
+   `pip install pandas numpy matplotlib seaborn`
+3. Run the Jupyter notebook:  
+   `jupyter notebook Comcast\ Customer\ Complaint\ Analysis.ipynb`
+
+---
+
+## 💼 About the Author
+
+Simeon Ifalore is a skilled Data Analyst with a strong focus on storytelling through data. With a passion for uncovering insights that drive strategic decisions, Simeon specializes in turning raw datasets into visual narratives.
+
+[🔗 LinkedIn](https://www.linkedin.com/in/simeonifalore/) | [📫 Email](mailto:your_email@example.com)
+
+---
+
+## 📝 License
+
+This project is released under the MIT License.
+
