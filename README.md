@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://1000logos.net/wp-content/uploads/2021/11/Comcast-Logo-768x432.png" alt="Comcast Logo" width="200"/>
+  <img src="https://github.com/SimeonIfalore/Comcast-Complaint-Analysis/blob/main/Comcast.svg.png" alt="Comcast Logo" width="200"/>
 </p>
 
 <h1 align="center">Comcast Customer Complaint Analysis</h1>
