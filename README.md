@@ -10,7 +10,7 @@
 
 ---
 
-## 🔍 Overview
+## 📋 Overview
 
 This project presents a data-driven analysis of **Comcast's customer service complaints**, using real-world data to uncover pain points, trends, and service quality issues.
 
@@ -40,8 +40,8 @@ The dataset contains customer complaints received via different channels and inc
 - ✅ Import and clean the dataset
 - 📅 Generate trend charts of complaint volumes (daily/monthly)
 - 🧾 Identify and count the most common complaint types
-- 📊 Create a new binary status feature: `Open` vs `Closed`
-- 🗺️ Visualize complaints by state using a stacked bar chart
+- 🗺️ Create a new binary status feature: `Open` vs `Closed`
+- 📊Visualize complaints by state using a stacked bar chart
 - 🔎 Determine:
   - Which state has the highest number of complaints?
   - Which state has the highest percentage of unresolved complaints?
@@ -66,7 +66,7 @@ The dataset contains customer complaints received via different channels and inc
 - 📍 Geographic complaint breakdown by U.S. state
 
 ---
-## 🔎 Key findings from the analysis include:
+## 🔎 Key findings
 
 * The complaint resolution rate for issues received via Customer Care Calls is approximately **50.6%**, while for complaints received via the Internet, it is around **49.4%**.
 * To significantly improve customer service, attention should be directed towards states like **Georgia, Florida, and California**, as these regions account for the highest volume of complaints.
@@ -88,11 +88,5 @@ To run the notebook:
 
 Simeon Ifalore is a skilled Data Analyst with a strong focus on storytelling through data. With a passion for uncovering insights that drive strategic decisions, Simeon specializes in turning raw datasets into visual narratives.
 
-[🔗 LinkedIn](https://www.linkedin.com/in/simeonifalore/) | [📫 Email](mailto:your_email@example.com)
-
----
-
-## 📝 License
-
-This project is released under the MIT License.
+[🔗 LinkedIn](https://www.linkedin.com/in/simeonifalore/) | [📫 Email](mailto:ifaloresimeon@gmail.com)
 
