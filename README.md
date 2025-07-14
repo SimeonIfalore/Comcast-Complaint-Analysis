@@ -60,13 +60,18 @@ The dataset contains customer complaints received via different channels and inc
 
 ## 📌 Highlights
 
-- 🧹 Data Cleaning & Feature Engineering (including categorical transformation)
+- 🧹 Data Cleaning
 - 📊 Exploratory Data Analysis using matplotlib and seaborn
 - 🧮 Grouping, Aggregation, and Custom Metrics
 - 📍 Geographic complaint breakdown by U.S. state
 
 ---
+## 🔎 Key findings from the analysis include:
 
+* The complaint resolution rate for issues received via Customer Care Calls is approximately **50.6%**, while for complaints received via the Internet, it is around **49.4%**.
+* To significantly improve customer service, attention should be directed towards states like **Georgia, Florida, and California**, as these regions account for the highest volume of complaints.
+* The month of **June** consistently shows a peak in complaint submissions, suggesting a need to investigate the underlying reasons for this seasonal increase.
+---
 ## 🚀 Getting Started
 
 To run the notebook:
